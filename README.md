@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Autism Screening Prediction App is a local, AI-assisted web tool that predicts the likelihood of Autism Spectrum Disorder (ASD) based on the AQ-10 questionnaire and personal information — without requiring any machine learning knowledge from the user.
+The Autism Screening Prediction App is a local, AI-assisted web tool that predicts the likelihood of Autism Spectrum Disorder (ASD) based on the AQ-10 questionnaire and personal information without requiring any machine learning knowledge from the user.
 
 It walks the user through a two-page form, computes an AQ-10 score automatically, runs an XGBoost prediction model, and generates a detailed report with a SHAP-based visual explanation of which factors influenced the result most.
 
